@@ -1,5 +1,3 @@
-import os
-
 class Calculadora:
     def sumar(self, a, b) -> float:
         return a + b
