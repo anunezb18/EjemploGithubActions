@@ -11,7 +11,7 @@ on: #Cuando se tiene que ejecutar el workflow
 
 permissions: #Pueda leer el contenido del repositorio
   contents: read
-  contents: write
+  packages: write
 
 jobs:
   test_and_build:
