@@ -1,6 +1,6 @@
 class Calculadora:
     def sumar(self, a, b) -> float:
-        return 0
+        return a + b
 
     def restar(self, a, b) -> float:
         return a - b
